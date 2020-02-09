@@ -1,34 +1,34 @@
 [
 {
-	"uri": "http://example.org/posts/my-first-post/",
+	"uri": "/posts/my-first-post/",
 	"title": "My First Post",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/",
+	"uri": "/",
 	"title": "My New Hugo Site",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/posts/",
+	"uri": "/posts/",
 	"title": "Posts",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/categories/",
+	"uri": "/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/tags/",
+	"uri": "/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
